@@ -3,7 +3,31 @@
 > A professional desktop simulation platform for cellular network analysis, built in Python + PySide6.
 
 ---
+## Screenshots
 
+### System Architecture
+![System Block Diagram](docs/screenshots/system-block-diagram.png)
+
+### BER vs SNR Analysis
+![BER vs SNR](docs/screenshots/ber-vs-snr-awgn.png)
+
+### Rayleigh Channel Constellations
+![Constellation Diagrams](docs/screenshots/constellation-rayleigh.png)
+
+### Multi-Cell SINR Heatmap
+![SINR Heatmap](docs/screenshots/sinr-heatmap.png)
+
+### Network Topology
+![Network Topology](docs/screenshots/network-topology.png)
+
+### Shannon Capacity vs SINR
+![Capacity vs SINR](docs/screenshots/capacity-vs-sinr.png)
+
+### 5G NR Resource Block Grid
+![5G Resource Block Grid](docs/screenshots/5g-resource-block-grid.png)
+
+### AI-Based Handover Prediction
+![AI Handover Results](docs/screenshots/ai-handover-results.png)
 ## Features
 
 | Tab | Description |
