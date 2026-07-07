@@ -1,7 +1,5 @@
-# Mobile Communication System Simulator
-
-> A professional desktop simulation platform for cellular network analysis, built in Python + PySide6.
-
+# Signal Forge – LTE/5G Mobile Communication Simulator
+A professional Python desktop simulator for LTE/5G mobile communication, channel modeling, SINR analysis, handover simulation, AI-assisted prediction, and PDF reporting.
 ---
 ## Screenshots
 
